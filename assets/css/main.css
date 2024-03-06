@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: hack, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+/* Header CSS */
+
+.main{
+    padding: 30px;
+    margin: 30px;
+}
+
+.tabs{
+    display: flex;
+    list-style: none;
+    background-color: black;
+    color: white;
+}
+
+.tablist{
+    padding: 12px;
+    font-size: large;
+}
+
+/* Main Containt */
+.row{
+    display: flex;
+}
+
+.col-6{
+    width: 50%;
+}
+
+.techstarmahesh{
+    margin-bottom: 60px;
+    width: 25%;
+    height: inherit;
+}
+
+.techstar{
+    padding: 40px;
+}
+
+.mahesh{
+    text-align: center;
+}
+
+/* Education And Certification */
+
+.education-list{
+    list-style: none;
+}
+
+.education-container{
+    text-align: center;
+    align-items: flex-end;
+}
+
+.training-container{
+    text-align: center;
+}
+
+
+/* Footer CSS */
+
+.footTabs{
+    display: flex;
+    list-style: none;
+    background-color: black;
+    color: white;
+    height: max-content;
+    width: auto;
+    align-items: flex-end;
+}
+
+.footTablist{
+    padding: 12px;
+    font-size: large;
+}
+
+/* Tag Editor */
+hr{
+    border-top: 2px solid black;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
