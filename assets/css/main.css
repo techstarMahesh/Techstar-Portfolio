@@ -24,6 +24,11 @@
     font-size: large;
 }
 
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+
 /* Main Containt */
 .row{
     display: flex;
